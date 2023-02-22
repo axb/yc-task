@@ -1,0 +1,1 @@
+docker run -it --rm -d -p 8080:80 --name web cr.yandex/crp8bq8clcltin9m5fp7/web-static
